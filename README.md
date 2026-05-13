@@ -37,7 +37,7 @@ App móvil para el seguimiento de salud materna.
 - Manejo de estados
 - Persistencia en Firebase
 
-📂 Ver detalles: [projects/proyecto_flutter.md](projects/proyecto_flutter.md)
+📂 Ver detalles: [Healt_Mom.md](Health_Mom.md)
 
 ---
 
