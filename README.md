@@ -3,7 +3,7 @@
 Ingeniero en Desarrollo de Software | Flutter • React • Java • MySQL
 
 📍 La Piedad, Michoacán, México  
-📧 Hipwarfth19905@email.com  
+📧 Hipwarfth19905@gmail.com  
 🔗 GitHub: https://github.com/CesarLeon551
 
 ---
