@@ -41,10 +41,10 @@ App móvil para el seguimiento de salud materna.
 
 ---
 
-### 🌐 Portafolio Web (React)
-Portafolio profesional hecho en React.
+### 🌐 Portafolio Web 
+Portafolio profesional.
 
-📂 Ver detalles: [projects/proyecto_react.md](projects/proyecto_react.md)
+📂 Ver detalles: https://cesarleon551.github.io/PortafolioWeb/
 
 ---
 
