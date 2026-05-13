@@ -50,7 +50,7 @@ Portafolio profesional hecho en React.
 
 ## 📄 CV en PDF
 
-👉 [Descargar CV](CV_Cesar_Leon.pdf)
+👉 [Descargar CV](CV_Cesar_Leon_Vargas.pdf)
 
 ---
 
