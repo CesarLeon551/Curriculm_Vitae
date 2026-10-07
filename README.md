@@ -39,6 +39,15 @@ App móvil para el seguimiento de salud materna.
 
 📂 Ver detalles: [Healt_Mom.md](Health_Mom.md)
 
+### 💍Vowly Wedding Plataform (Flutter + Firebase)
+WebApp responsive para administrar en un solo lugar toda la organización de una boda.
+
+- Arquitectura limpia con Riverpod
+- Manejo de estados
+- Persistencia en Firebase
+
+📂 Ver detalles: [Healt_Mom.md](VowlyWeddingPlataform.md)
+
 ---
 
 ### 🌐 Portafolio Web 
